@@ -13,10 +13,9 @@
 
 ###
 
-![cyber cat]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV6cDFzcXJvdmoweDZ1cGt0ZGkyeTZhMjhodm03YTFmZHdnNGl6cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif](https://giphy.com/embed/wwg1suUiTbCY8H8vIA))
+![cyber cat](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)
 
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV6cDFzcXJvdmoweDZ1cGt0ZGkyeTZhMjhodm03YTFmZHdnNGl6cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif"  />
 
 ###
 
