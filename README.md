@@ -13,9 +13,10 @@
 
 ###
 
-![cyber cat](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)
 
-<img align="right" height="150" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif"  />
+![cyber cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+<img align="right" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 
 ###
 
