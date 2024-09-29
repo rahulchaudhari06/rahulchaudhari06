@@ -70,7 +70,9 @@
 </div>
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=rahulchaudhari06&color=blue" alt="Profile views" />
+
+
+
 </div>
 
 
