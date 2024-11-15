@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">A young-dumb 🤓 learning web developer from India 🇮🇳</h3>
+<h3 align="left">😼<h3>
 
 ###
 
