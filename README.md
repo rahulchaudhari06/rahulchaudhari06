@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">About me</h3>
+<h2 align="left">About me</h3>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h5 align="left">I also do know</h5>
+<h3 align="left">I also do know</h5>
 
 ###
 
